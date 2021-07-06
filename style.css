@@ -14,7 +14,7 @@ section{
     display: block;
 }
 .half-width img{
-    80%
+    width: 80%;
 }
 h1{
     font-size: 50px;
@@ -32,4 +32,13 @@ h1{
     font-weight: 700;
     border-radius: 6px;
     color: white;
+}
+#heading{
+    color: rgb(9, 60, 73);
+    
+}
+.background-image{
+background-image: url(Frame\ 57.jpg);
+background-repeat: no-repeat;
+background-position: auto;
 }
