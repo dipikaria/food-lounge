@@ -48,9 +48,7 @@ background-position: auto;
 #recipie-name{
     text-align: center;
 }
-.flex-width{
-    
-}
+
 
 .flexible-item{
     display: flex;
@@ -84,4 +82,21 @@ img{
 justify-content: center;
 border: 6px solid gray;
 
+}
+#end{
+    text-align: center;
+    background-color: rgb(184, 170, 170);
+    padding: 15px;
+}
+.header{
+    color: darkslategrey;
+}
+.flex-item{
+    display: flex;
+    flex-direction: row;
+    box-shadow: 5px 5px 35px gray;
+    padding: 20px;
+border-radius: 15px;
+margin: 50px;
+justify-content: center;
 }
